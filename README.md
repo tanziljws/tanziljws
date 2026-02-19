@@ -1,11 +1,5 @@
 # Hi, I'm Tanzil Muhammad Zibril 
 ### Software & IoT Engineer
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanziljws&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanziljws&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
-</p>
-
 ---
 
 ### Quick Summary
